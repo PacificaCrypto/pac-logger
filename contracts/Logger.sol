@@ -4,7 +4,7 @@ pragma solidity 0.8.16;
 /// @title A Solidity logger
 /// @author Brent A. Ritterbeck
 /// @notice A collection of logging utilities
-/// @dev Inspired by PRBTest and DSTest
+/// @dev Inspired by PRBTest and ds-test
 contract Logger {
     /// @notice Log a generic string
     /// @param value The generic string to be logged
